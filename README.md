@@ -3,12 +3,34 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Talk+is+cheap.+Show+me+the+code.;Web+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
+
+<br />
+
 - 🔭 **Currently working at:** SDE Intern @ **ITJOBXS**
--🏆 **Hackathon Achievements:** 2x Hackathon Winner *(Internal Hackathon @ Galgotias University & International Hackathon in collaboration with institutions from Singapore & the Maldives).
-- 🌱 I am currently learning **[AI/ML]**
-- 👯 I'm looking to collaborate on **[web dev /AI/ML ]** projects
-- 💬 Ask me about **[Web Development and Web Technologies]**
+
+<br />
+
+- 🏆 **Hackathon Achievements:** 
+  - 🥇 1x Winner: Internal Hackathon @ Galgotias University
+  - 🥇 1x Winner: International Hackathon (in collaboration with institutions from Singapore & Maldives)
+
+<br />
+
+- 🌱 I am currently learning **AI/ML**
+
+<br />
+
+- 👯 I'm looking to collaborate on **Web Dev / AI/ML** projects
+
+<br />
+
+- 💬 Ask me about **Web Development and Web Technologies**
+
+<br />
+
 - 📫 How to reach me: <a href="mailto:priyamsingh846@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" valign="middle" /></a>
+
+<br />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyamsingh846-crypto&label=Profile%20views&color=0e75b6&style=flat" alt="priyamsingh846-crypto" />
