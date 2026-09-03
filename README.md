@@ -17,13 +17,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=priyamsingh846-crypto&show_icons=true&theme=dark" alt="GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamsingh846-crypto&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyamsingh846-crypto&theme=dark)
 
 ---
 
