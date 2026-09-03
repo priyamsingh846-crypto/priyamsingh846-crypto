@@ -18,12 +18,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyamsingh846-crypto&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamsingh846-crypto&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamsingh846-crypto&layout=compact&theme=radical" alt="Top Langs" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=priyamsingh846-crypto&show_icons=true&theme=dark" alt="GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamsingh846-crypto&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
