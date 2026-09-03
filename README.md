@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Talk+is+cheap.+Show+me+the+code.;Web+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
-
+- 🔭 **Currently working at:** SDE Intern @ **ITJOBXS**
+-🏆 **Hackathon Achievements:** 2x Hackathon Winner *(Internal Hackathon @ Galgotias University & International Hackathon in collaboration with institutions from Singapore & the Maldives).
 - 🌱 I am currently learning **[AI/ML]**
 - 👯 I'm looking to collaborate on **[web dev /AI/ML ]** projects
 - 💬 Ask me about **[Web Development and Web Technologies]**
