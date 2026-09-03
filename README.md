@@ -4,11 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Talk+is+cheap.+Show+me+the+code.;Web+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
-- 🌱 I am currently learning **[your tech stack here]**
-- 👯 I'm looking to collaborate on **[web dev / your interest]** projects
-- 💬 Ask me about **[your topics]**
-- 📫 How to reach me: **[your email]**
-- ⚡ Fun fact: **[something about you]**
+- 🌱 I am currently learning **[AI/ML]**
+- 👯 I'm looking to collaborate on **[web dev /AI/ML ]** projects
+- 💬 Ask me about **[Web Development and Web Technologies]**
+- 📫 How to reach me: <a href="mailto:priyamsingh846@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" valign="middle" /></a>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyamsingh846-crypto&label=Profile%20views&color=0e75b6&style=flat" alt="priyamsingh846-crypto" />
@@ -43,13 +42,16 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/priyam-singh-93938a3a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/priyam_.21?igsi=MTRrcGl6d3A1OTA1eA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:priyamsingh846@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/priyam840/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 </p>
