@@ -5,27 +5,17 @@
 </p>
 
 <br />
-
 - 🔭 **Currently working at:** SDE Intern @ **ITJOBXS**
-
 <br />
-
 - 🏆 **Hackathon Achievements:** 
   - 🥇 1x Winner: Internal Hackathon @ Galgotias University
   - 🥇 1x Winner: International Hackathon (in collaboration with institutions from Singapore & Maldives)
-
 <br />
-
 - 🌱 I am currently learning **AI/ML**
-
 <br />
-
 - 👯 I'm looking to collaborate on **Web Dev / AI/ML** projects
-
 <br />
-
 - 💬 Ask me about **Web Development and Web Technologies**
-
 <br />
 
 - 📫 How to reach me: <a href="mailto:priyamsingh846@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" valign="middle" /></a>
